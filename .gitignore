@@ -1,2 +1,2 @@
 echo venv/ > .gitignore
-echo tuberculosis_powerbi/ > .gitignore
+tuberculosis_powerbi.pbix
